@@ -50,8 +50,24 @@
 
 <p align="center">
   <!-- Contribution Graph Animation -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-ahmed&theme=react-dark&custom_title=🔥%20My%20Problem%20Solving%20Journey&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engraliahmed&theme=react-dark&custom_title=🔥%20My%20Problem%20Solving%20Journey&hide_border=true" />
 </p>
+
+## 🏆 My LeetCode Journey  
+
+<p align="center">
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo%202&ext=contest" />
+</p>
+
+<p align="center">
+  <!-- Dynamic Badges -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
+</p>
+
 
 ---
 
