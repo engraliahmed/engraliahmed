@@ -19,14 +19,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,java,sqlite" />
 </p>
-
 <p align="center">
-  <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,git,github,vscode" />
 </p>
 
@@ -40,9 +36,21 @@
 
 ---
 
-## 🏆 LeetCode Journey
+## 🏆 My LeetCode Journey  
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ali-ahmed?theme=dark&font=Montserrat&ext=contest" />
+  <!-- Animated Card -->
+  <img src="https://leetcard.jacoblin.cool/ali-ahmed?theme=dark&font=Baloo%202&ext=heatmap" />
+</p>
+
+<p align="center">
+  <!-- Dynamic Progress Bar -->
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ali-ahmed&theme=dark&border=rounded&animated=true" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph Animation -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-ahmed&theme=react-dark&custom_title=🔥%20My%20Problem%20Solving%20Journey&hide_border=true" />
 </p>
 
 ---
