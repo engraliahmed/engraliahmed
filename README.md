@@ -46,6 +46,8 @@
 <p align="center">
   <!-- Dynamic Progress Bar -->
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=engraliahmed&theme=dark&border=rounded&animated=true" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
+  
 </p>
 
 <p align="center">
@@ -53,29 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engraliahmed&theme=react-dark&custom_title=🔥%20My%20Problem%20Solving%20Journey&hide_border=true" />
 </p>
 
-## 🏆 My LeetCode Journey  
-
-<p align="center">
-  <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=contest" />
-</p>
-
-<p align="center">
-  <!-- Dynamic Badges -->
-  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
-</p>
-
-
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/engraliahmed"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-  <a href="https://your-portfolio.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a>
+  <a href="mailto:engr.aliahmed4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
 </p>
 
 ---
