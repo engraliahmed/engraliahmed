@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ali-ahmed&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-ahmed&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=engraliahmed&theme=tokyonight" />
 </p>
 
 ---
@@ -40,12 +40,12 @@
 
 <p align="center">
   <!-- Animated Card -->
-  <img src="https://leetcard.jacoblin.cool/ali-ahmed?theme=dark&font=Baloo%202&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap" />
 </p>
 
 <p align="center">
   <!-- Dynamic Progress Bar -->
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ali-ahmed&theme=dark&border=rounded&animated=true" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=engraliahmed&theme=dark&border=rounded&animated=true" />
 </p>
 
 <p align="center">
@@ -57,15 +57,15 @@
 
 <p align="center">
   <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo%202&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=contest" />
 </p>
 
 <p align="center">
   <!-- Dynamic Badges -->
-  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
 </p>
 
 
@@ -73,11 +73,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://linkedin.com/in/engraliahmed"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
   <a href="https://your-portfolio.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a>
 </p>
 
 ---
 
-⭐️ From [Ali Ahmed](https://github.com/ali-ahmed)
+⭐️ From [Ali Ahmed](https://github.com/engraliahmed)
