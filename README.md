@@ -38,17 +38,36 @@
 
 ## 🏆 My LeetCode Journey  
 
-<p align="center">
-  <!-- Animated Card -->
-  <img src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap" />
-</p>
+<h2 align="center">🚀 My LeetCode Journey</h2>
 
 <p align="center">
-  <!-- Dynamic Progress Bar -->
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=engraliahmed&theme=dark&border=rounded&animated=true" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" />
-  
+  <!-- Animated Profile Card -->
+  <a href="https://leetcode.com/engraliahmed/">
+    <img src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap&border=rounded&animation=true" 
+         alt="LeetCode Profile Card" width="90%" />
+  </a>
 </p>
+
+<h3 align="center">📊 Progress Overview</h3>
+<p align="center">
+  <!-- Dynamic Progress Bar -->
+  <a href="https://leetcode.com/engraliahmed/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=engraliahmed&theme=dark&border=rounded&animated=true" 
+         alt="LeetCode Progress Bar" height="30px"/>
+  </a>
+  
+  <!-- Solved Count -->
+  <a href="https://leetcode.com/engraliahmed/">
+    <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Problems%20Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" 
+         alt="Problems Solved Badge" height="30px"/>
+  </a>
+</p>
+
+<h3 align="center">⚡ Quick Links</h3>
+<p align="center">
+  <a href="https://leetcode.com/engraliahmed/"><b>View My LeetCode Profile →</b></a>
+</p>
+
 
 <p align="center">
   <!-- Contribution Graph Animation -->
