@@ -38,29 +38,46 @@
 
 ## 🏆 My LeetCode Journey  
 
+<!-- Centered Heading -->
 <h2 align="center">🚀 My LeetCode Journey</h2>
 
+<!-- LeetCode Card -->
 <p align="center">
-  <!-- Animated Profile Card (smaller) -->
   <a href="https://leetcode.com/engraliahmed/">
-    <img src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap&border=rounded&animation=true" 
-         alt="LeetCode Profile Card" width="70%" />
+    <img 
+      src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap&animation=true&border=rounded"
+      alt="LeetCode Profile"
+      width="80%" />
   </a>
 </p>
 
-<h3 align="center">📊 Progress Overview</h3>
+<!-- Grid for Stats -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Easy-2/901-brightgreen?logo=leetcode&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Medium-0/1920-orange?logo=leetcode&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hard-0/870-red?logo=leetcode&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <!-- Solved Count Badge Only -->
   <a href="https://leetcode.com/engraliahmed/">
-    <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Problems%20Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" 
-         alt="Problems Solved Badge" height="30px"/>
+    <img 
+      src="https://img.shields.io/badge/dynamic/json?color=blue&label=Problems%20Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/engraliahmed&logo=leetcode&logoColor=white" 
+      alt="Problems Solved Badge" height="30px"/>
   </a>
 </p>
 
-<h3 align="center">⚡ Quick Links</h3>
 <p align="center">
-  <a href="https://leetcode.com/engraliahmed/"><b>View My LeetCode Profile →</b></a>
+  <a href="https://leetcode.com/engraliahmed/"><b>View My Full LeetCode Profile →</b></a>
 </p>
+
 
 ------------------
 
