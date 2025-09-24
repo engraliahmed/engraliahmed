@@ -38,6 +38,9 @@
 
 ## 🏆 My LeetCode Journey  
 
+<img src="https://progress-bar.dev/2/?scale=3691&title=Total%20Solved&width=300&color=blue" />
+
+
 <!-- Centered Heading -->
 <h2 align="center">🚀 My LeetCode Journey</h2>
 
