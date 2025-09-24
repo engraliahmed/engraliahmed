@@ -38,19 +38,13 @@
 
 ## 🏆 My LeetCode Journey  
 
-<img src="https://progress-bar.dev/2/?scale=3691&title=Total%20Solved&width=300&color=blue" />
-
-
-<!-- Centered Heading -->
-<h2 align="center">🚀 My LeetCode Journey</h2>
-
 <!-- LeetCode Card -->
 <p align="center">
   <a href="https://leetcode.com/engraliahmed/">
     <img 
       src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap&animation=true&border=rounded"
       alt="LeetCode Profile"
-      width="80%" />
+      width="60%" />
   </a>
 </p>
 
