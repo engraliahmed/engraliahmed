@@ -36,18 +36,6 @@
 
 ---
 
-## 🏆 My LeetCode Journey  
-
-<!-- LeetCode Card -->
-<p align="center">
-  <a href="https://leetcode.com/engraliahmed/">
-    <img 
-      src="https://leetcard.jacoblin.cool/engraliahmed?theme=dark&font=Baloo%202&ext=heatmap&animation=true&border=rounded"
-      alt="LeetCode Profile"
-      width="60%" />
-  </a>
-</p>
-
 <!-- Grid for Stats -->
 <table align="center">
   <tr>
