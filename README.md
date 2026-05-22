@@ -12,7 +12,7 @@
 - 💡 Specializing in full-stack development and clean, modern UI/UX design.
 - 🤖 Building architectures around Agentic AI, LLMs, and Retrieval-Augmented Generation (RAG).
 - 🏆 Certified: IBM Full Stack Software Developer & Oracle Cloud Infrastructure 2025 Generative AI Certified Professional.
-- ✍️ Creator behind the **Codescope** YouTube channel and **The Tech Vanguard** tech blog.
+- ✍️ Creator behind the **Codescope** community handle and **The Tech Vanguard** tech blog.
 
 ---
 
