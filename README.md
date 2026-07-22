@@ -52,25 +52,25 @@
 
 <br />
 
-<!-- GITHUB STATS & TOP LANGUAGES CARDS -->
+<!-- GITHUB STATS & TOP LANGUAGES -->
 <p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
+    <img width="48%" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
   </a>
   <a href="https://github.com/engraliahmed">
-    <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+    <img width="48%" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
   </a>
 </p>
 
 <br />
 
-<!-- CONNECT WITH ME -->
+<!-- CLEAN SOCIAL & PORTFOLIO ICONS -->
 <p align="center">
   <a href="https://linkedin.com/in/engraliahmed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16161e" height="42" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.aliahmedkhan.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=1a1b26&labelColor=16161e" height="42" alt="Portfolio" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="52" alt="Portfolio" />
   </a>
 </p>
