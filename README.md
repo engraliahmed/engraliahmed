@@ -48,12 +48,12 @@
 <!-- GITHUB STATS & LANGUAGES (FIERY RED/ORANGE/WHITE THEME) -->
 <p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="48.5%" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=engraliahmed&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff5555&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" alt="Ali's GitHub Stats" />
+    <img width="52%" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=engraliahmed&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff5555&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" alt="Ali's GitHub Stats" />
   </a>
   <a href="https://github.com/engraliahmed">
-    <img width="48.5%" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=radical&hide_border=true&title_color=ff5555&text_color=f8f8f2&bg_color=0d1117" alt="Top Languages" />
+    <img width="45%" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=radical&hide_border=true&title_color=ff5555&text_color=f8f8f2&bg_color=0d1117&hide=ejs,go" alt="Top Languages" />
   </a>
-</p>
+</p>1
 
 <!-- COMPACT STREAK CARD (MATCHING RED/ORANGE) -->
 <p align="center">
