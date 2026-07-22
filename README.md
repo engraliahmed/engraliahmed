@@ -50,33 +50,33 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=1.5&height=32&text=⚡%20Ali's%20Dev%20Metrics%20⚡&fontColor=7aa2f7&fontSize=14" width="100%" />
 </p>
 
-<!-- GITHUB STATS & LANGUAGES (WORKING MIRROR API) -->
+<!-- GITHUB STATS & LANGUAGES (SAME HEIGHT ALIGNED) -->
 <p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="48%" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
+    <img width="48.5%" height="165" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
   </a>
+  &nbsp;
   <a href="https://github.com/engraliahmed">
-    <img width="48%" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+    <img width="48.5%" height="165" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
   </a>
 </p>
 
-<!-- COMPACT STREAK STATS -->
+<!-- COMPACT STREAK CARD -->
 <p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=engraliahmed&theme=tokyonight&hide_border=true&mode=daily&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakNum=ffffff" alt="GitHub Streak" />
+    <img width="80%" height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=engraliahmed&theme=tokyonight&hide_border=true&mode=daily&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakNum=ffffff" alt="GitHub Streak" />
   </a>
 </p>
 
 <br />
 
-<!-- HIGH QUALITY PURE SVG ICONS (NO SHIELDS / NO RECTANGLES) -->
+<!-- MATCHING PREMIUM SVG ICONS -->
 <p align="center">
   <a href="https://linkedin.com/in/engraliahmed" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- APNA PORTFOLIO LINK NEECHYE HREF MEIN APDATED RAKHO -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://api.iconify.design/heroicons:globe-alt-solid.svg?color=%237aa2f7" width="38" height="38" alt="Portfolio" />
+    <img src="https://api.iconify.design/heroicons:globe-alt-20-solid.svg?color=%2338bdf8" width="40" height="40" alt="Portfolio" />
   </a>
 </p>
