@@ -45,50 +45,41 @@
 
 ## 📊 GitHub & Coding Stats
 
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&reversal=false" width="100%" />
-</div>
+<!-- HEADER DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=40&text=⚡%20GitHub%20&%20Coding%20Metrics%20⚡&fontColor=7aa2f7&fontSize=18" width="100%" alt="Header" />
+</p>
 
 <br />
 
-<!-- MAIN GITHUB STATS & TOP LANGUAGES -->
-<div align="center">
+<!-- GITHUB STATS & TOP LANGUAGES (FALLBACK RELIABLE CARDS) -->
+<p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
+    <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
   </a>
   <a href="https://github.com/engraliahmed">
-    <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&hide_progress=false" alt="Top Languages" />
+    <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
   </a>
-</div>
+</p>
 
 <br />
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=engraliahmed&theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=ffffff&area=true" alt="Contribution Activity Graph" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=engraliahmed&theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=ffffff&area=true" alt="Contribution Graph" />
   </a>
-</div>
+</p>
 
 <br />
 
-<!-- FOOTER WAVE ANIMATION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer&reversal=false" width="100%" />
-</div>
-
-
----
-
-## 🌐 Connect With Me
-
+<!-- CONNECT WITH ME (CLEAN, HD BADGES) -->
 <p align="center">
   <a href="https://linkedin.com/in/engraliahmed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.aliahmedkhan.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=net" width="48" alt="Portfolio" />
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=react&logoColor=1a1b26" alt="Portfolio" />
   </a>
 </p>
