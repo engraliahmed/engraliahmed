@@ -45,32 +45,50 @@
 
 ## 📊 GitHub & Coding Stats
 
-<!-- HEADER BANNER -->
+<!-- PREMIUM REFINED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=7aa2f7&strokeWidth=2&height=40&text=⚡%20GitHub%20&%20Coding%20Metrics%20⚡&fontColor=7aa2f7&fontSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=16161e&stroke=7aa2f7&strokeWidth=2&height=40&text=⚡%20Ali's%20Dev%20Dashboard%20⚡&fontColor=7aa2f7&fontSize=18" width="100%" alt="Header" />
 </p>
 
 <br />
 
-<!-- GITHUB STATS & TOP LANGUAGES -->
+<!-- COHESIVE METRICS: STATS & LANGUAGES (GLASS LAYOUT) -->
 <p align="center">
   <a href="https://github.com/engraliahmed">
-    <img width="48%" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
+    <img width="48.5%" align="top" src="https://github-readme-stats.vercel.app/api?username=engraliahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=16161e&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="Ali's GitHub Stats" />
   </a>
+  &nbsp;
   <a href="https://github.com/engraliahmed">
-    <img width="48%" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+    <img width="48.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engraliahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161e&title_color=7aa2f7&text_color=a9b1d6&hide_progress=false" alt="Top Languages" />
   </a>
 </p>
 
 <br />
 
-<!-- CLEAN SOCIAL & PORTFOLIO ICONS -->
+<!-- GITHUB STREAK STATS (PREMIUM UI MATCH) -->
+<p align="center">
+  <a href="https://github.com/engraliahmed">
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=engraliahmed&theme=tokyonight&hide_border=true&mode=daily&background=16161e&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakNum=ffffff" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br />
+
+<!-- CLEAN SOCIAL INTERACTION (HIGH-RES BADGES) -->
 <p align="center">
   <a href="https://linkedin.com/in/engraliahmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" height="42" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="52" alt="Portfolio" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- PLEASE INSERT YOUR ACTUAL PORTFOLIO URL BELOW -->
+  <a href="https://www.aliahmedkhan.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=1a1b26&labelColor=1a1b26" height="42" alt="Portfolio" />
   </a>
+</p>
+
+<br />
+
+<!-- PREMIUM MINIMALIST FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=16161e&stroke=bb9af7&strokeWidth=2&height=10&width=100%" alt="Footer" />
 </p>
